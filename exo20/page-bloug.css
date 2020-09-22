@@ -1,0 +1,33 @@
+#violette {
+    background-color: #5bbfb7;
+    color: white;
+}
+
+h2 {
+    font-weight: bold;
+    text-decoration: underline palegoldenrod;
+}
+
+.groupie {
+    background-color: whitesmoke;
+    padding : 2ex;
+    margin: 1.5ex;
+    margin-left: 30px;
+}
+
+h3 {
+    margin-left: 30px;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+h4 {
+    color: #F18075;
+}
+
+a {
+    color: slateblue;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+}
