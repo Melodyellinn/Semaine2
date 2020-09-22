@@ -1,6 +1,6 @@
 section h1 {
 color: blue;
-font-weight: 700;
+font-weight: bold;
 }
 
 .hightlight {
@@ -9,10 +9,11 @@ font-weight: 700;
 }
 
 #main-menu{
-    border: 5px;
+    border: 2px;
     border-style: solid;
     border-radius: 30px;
     border-color: black;
+    text-align: center;
 }
 
 .highlight {
@@ -24,6 +25,7 @@ font-weight: 700;
     border-color: black;
     border-style: dotted;
     padding: 5px;
+    border-radius: 10px;
 }
 
 h2 {
