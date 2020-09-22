@@ -1,8 +1,12 @@
-#violette {
+body {
+    margin: 0px;
+}
+
+header {
     background-color: #5bbfb7;
 }
 
-.bark {
+header a {
     color: white;
     text-decoration: none;
     font-size: xx-large;
@@ -11,13 +15,21 @@
 
 h1 {
     font-weight: bold;
-    text-decoration: underline palegoldenrod;
+    text-decoration-thickness: 3px;
+    text-decoration: underline wheat;
+    font-size: 1.3em;
+    text-transform: capitalize;
+    margin: 15px;
+}
+
+main>section {
+    margin: 30px;
 }
 
 .groupie {
     background-color: whitesmoke;
-    padding : 2ex;
     margin: 1.5ex;
+    padding : 2ex;
     margin-left: 30px;
 }
 
